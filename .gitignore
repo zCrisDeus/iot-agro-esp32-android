@@ -1,0 +1,12 @@
+# Android / Gradle
+*.iml
+.gradle/
+/android-app/local.properties
+/android-app/.idea/
+/android-app/build/
+/android-app/app/build/
+
+# Secretos y credenciales
+**/google-services.json
+**/secrets.h
+**/.env
